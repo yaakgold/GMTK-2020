@@ -1,0 +1,127 @@
+{
+  "tutorialTexts": [
+    {
+      "Text": "Welcome to the tutorial! Press 'Next' to continue to the next part of the tutorial, and 'Prev' to go back."
+    },
+
+    {
+      "Text": "In this tutorial, you can play however you want. You can play the entire game from here, but your game will not be saved."
+    },
+
+    {
+      "Text": "The goal of the game is to keep the tempurature of each computer component under control."
+    },
+
+    {
+      "Text": "The CPU or Central Processing Unit, is the green square near the center of the motherboard."
+    },
+
+    {
+      "Text": "The RAM or Random Access Memory, is the pink and yellow cards in the top right of the motherboard."
+    },
+
+    {
+      "Text": "The GPU or Graphics Processing Unit, is the blue box with fans in the bottom left of the motherboard."
+    },
+
+    {
+      "Text": "The HDD or Hard Disk Drive, is the black and yellow rectangle in the bottom right of the motherboard."
+    },
+
+    {
+      "Text": "In the upper left corner of the screen, you can see the tempuratures of each component."
+    },
+
+    {
+      "Text": "If any one of the components reaches 114 degrees F, the computer will explode, and that is game over."
+    },
+
+    {
+      "Text": "You can plug in a fan to cool down the component."
+    },
+
+    {
+      "Text": "Each component has at least one port that can be plugged in to cool down the component."
+    },
+
+    {
+      "Text": "To connect a fan, move the player  with the 'WASD' or Arrow Keys within range of the black wire end piece, left click on it, and when you release the mouse, you will have control over the box."
+    },
+
+    {
+      "Text": "To release the wire, you must keep the player within range of the black wire end piece"
+    },
+
+    {
+      "Text": "Drag it to one of the pins of the component that you would like to cool down, and when it snaps into position, left click with the mouse again."
+    },
+
+    {
+      "Text": "While a fan is plugged in to the motherboard, there is a chance that the pin will start to overheat, and you will have to unplug the wire before it gets too hot."
+    },
+
+    {
+      "Text": "If it starts burning, you will start heating up the component, instead of cooling it down."
+    },
+
+    {
+      "Text": "To disconnect a fan, left click on the black wire end, move it away from the pin, and left click again to release the wire."
+    },
+
+    {
+      "Text": "Any wire that is not connected, will start cooling down."
+    },
+
+    {
+      "Text": "If you cannot control the heat increase of the components, you can always unplug the PSU or Power Supply Unity. That is the pink rectangle in the bottom left of the motherboard."
+    },
+
+    {
+      "Text": "Doing this will stop the computer from running, and end the day early. It will also cost you 50 bunnies."
+    },
+
+    {
+      "Text": "In the top right corner, you can see how many more seconds you have for the day, as well as how many bunnies you have collected."
+    },
+
+    {
+      "Text": "As well as the components and wires heating up, you need to pay attention to how much time you have left in the day. At the end of the day you will be brought to the shop."
+    },
+
+    {
+      "Text": "Once at the shop, you can upgrade each component once per day to make sure you reach the required minimum specs your 'Gamer' requires for their game."
+    },
+
+    {
+      "Text": "If you do not reach the minimum requirements, it will make the next day more difficult."
+    },
+
+    {
+      "Text": "Your currency is dust bunnies. You will see dust bunnies hopping around the motherboard. If you run into one, you will gain some bunnies. You can use them to purchase upgrades."
+    },
+
+    {
+      "Text": "Another thing that you need to watch out for, is that your power supply can only handle so many Watts being drawn into the system."
+    },
+
+    {
+      "Text": "When you upgrade a part, that part will require more Wattage to run."
+    },
+
+    {
+      "Text": "This means that you will have to upgrade your Power Supply"
+    },
+
+    {
+      "Text": "You want to try and keep the computer alive for as long as possible, while still gaining dust bunnies."
+    },
+
+    {
+      "Text": "The game ends when you either have negative bunnies, or you let any component reach 114 degrees F."
+    },
+
+    {
+      "Text": "End of tutorial."
+    }
+  ]
+}
